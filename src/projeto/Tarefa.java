@@ -20,7 +20,7 @@ public class Tarefa {
 	}public String getDescricao() {
 		return descricao;
 	}
-	public String getstatus() {
+	public String getStatus() {
 		return status;
 	
 	}
